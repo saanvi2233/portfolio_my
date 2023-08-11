@@ -13,7 +13,7 @@ const Navbar = () => {
     },
     {
       id:3,
-      link:'Portfolio'
+      link:'Experience'
     },
     {
       id:4,
